@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on OpenCV
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open source projects in the domains of Python, Machine Learning and Data Science.
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/kshitij-dhar-493a76164/)
+- 📫 How to reach me: [LinkedIn] (#https://www.linkedin.com/in/kshitij-dhar-493a76164/)
 - 👾 Hobbies: 🎮 Video games, :books: Reading, :running: Sports
 - ⚡ Fun fact: 'Fun facts' aren't really fun, are they now?
