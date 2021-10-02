@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a final year student at Sir M. Visvesvaraya Institute of Technology, Bangalore currently doing my majors in Computer Science and Engineering. I love learning new technology and work on different tech stack. I am currently the senior placement coordinator at Sir MVIT and often spend time contributing to Open Source projects all around the world.
+I am currently working as an Associate System Architect at [Pegasystems](www.pega.com). I love learning new technology and work on different tech stack. I often spend time learning new technology and contributing to Open Source projects all around the world.
 
 - 🔭 I’m currently working on a research paper on Deep Convolutional Neural Networks
 - 🌱 I’m currently learning Machine Learning
